@@ -156,7 +156,7 @@ body, html {
 .about p {
     padding: 10px 190px;
     color: white;
-    font-size: 20px;
+    font-size: 22px;
     text-align: justify;
     letter-spacing: 1.3px;
 }
@@ -244,7 +244,7 @@ body, html {
 }
 .instruction-text {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 22px;
     line-height: 22px;
     margin-top: 11px;
     padding: 0px 46px;
@@ -276,6 +276,7 @@ body, html {
     justify-content: space-evenly;
     margin: 0 auto;
     width: 100%;
+    margin-top: 20px;
 }
 
 .features__item {
@@ -284,6 +285,7 @@ body, html {
     height: 90px;
     border: 2px solid rgb(233, 160, 26);
     border-radius: 5px;
+    margin-top: 20px;
 }
 
 .stack {
