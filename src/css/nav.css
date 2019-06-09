@@ -22,7 +22,7 @@
 
 .nav__checkbox:checked ~ .main-nav__content {
     transition: width 1s cubic-bezier(0.48, 0.43, 0.29, 1.3);
-    width: 410px;
+    width: 550px;
 }
 
 .main-nav__content {
@@ -34,7 +34,7 @@
 
 .main-nav__items {
     position: relative;
-    width: 410px;
+    width: 100%;
     height: 100%;
     padding-left: 20px;
     padding-right: 110px;
@@ -45,7 +45,7 @@
 .main-nav__item {
     display: inline-block;
     vertical-align: top;
-    width: 70px;
+    width: 100px;
     text-align: center;
     color: rgb(233, 160, 26);
     font-size: 14px;
